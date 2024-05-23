@@ -1,6 +1,9 @@
+#Install all these packages 
 import streamlit as st
 import pandas as pd 
+import numpy as np
 import plotly.express as px
+import plotly.graph_objects as go
 # TITLE
 st.title("RED DOT FOUNDATION - SURVEY ANALYSIS")
 st.sidebar.title("Language Selection")
