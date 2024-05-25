@@ -3,6 +3,6 @@ numpy
 pandas
 seaborn
 matplotlib
-plotly ==5.22.0
+plotly_express==0.4.0
 scikit-learn
 openpyxl
